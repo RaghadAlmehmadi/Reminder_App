@@ -12,3 +12,7 @@ The **Reminder App** is a simple Flutter application that allows users to set an
 - **Detail Screen**: Displays the details of the reminder once the user clicks on the notification.
 
 ## Screenshot
+<img width="496" alt="Screenshot 1446-11-16 at 10 40 50 AM" src="https://github.com/user-attachments/assets/0a1f1ee4-656d-484a-85cf-22305302cfb5" />
+
+
+<img width="495" alt="Screenshot 1446-11-16 at 10 41 03 AM" src="https://github.com/user-attachments/assets/cf15653d-6f12-45f3-b6fa-2df65c770033" />
