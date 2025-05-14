@@ -1,18 +1,14 @@
-# untitled
+# Reminder App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The **Reminder App** is a simple Flutter application that allows users to set and manage reminders. Users can input a reminder title and time, schedule a notification, and navigate to a detail screen that displays the reminder information. The app provides an easy-to-use interface for creating, viewing, and managing reminders.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Set Reminder Title**: Allows the user to input a title for the reminder.
+- **Set Reminder Time**: Users can specify the time for the reminder.
+- **Schedule Notification**: The app sends a notification at the scheduled time.
+- **Detail Screen**: Displays the details of the reminder once the user clicks on the notification.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Reminder_App
-# Reminder_App
+## Screenshot
